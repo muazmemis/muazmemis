@@ -1,7 +1,8 @@
 <div>
-<h1 align="center">Hi there, I'm Muaz <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
-<h3 align="center">Software developer from Turkey</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muazmemis" alt="muazmemis" /></a> </p>
+    <h1 align="center">Hi there, I'm Muaz <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+    <h3 align="center">Software developer from Turkey</h3>
+    <p align="left"> 
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muazmemis&theme=onedark" alt="muazmemis" /></a>       </p>
 </div>
   
 <div> 
@@ -13,34 +14,37 @@
 <a href = 'https://www.github.com/muazmemis'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
 </div>
+<br>
 
+## 📊 GitHub Stats
+
+<div align="left">  
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazmemis&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=muazmemis&count_private=true&show_icons=true&theme=tokyonight">
+  </p>                                                                                                                                          
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muazmemis&theme=tokyonight" alt="muazmemis" />
+  </p>
+</div>
+<br>
 <div>
-<h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-<p align='left'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
-</p>
-</div>
-                                                                                                                                       
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muazmemis&show_icons=true&locale=en&layout=compact" alt="muazmemis" /></p>
-</div>
-                                                                                                                                       
-<div>                                                                                                                                  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muazmemis&show_icons=true&locale=en" alt="muazmemis" /></p>
-</div>
-                                                                                                                                       
-<div>                                                                                                                                       
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muazmemis&" alt="muazmemis" /></p>
-</div>
+  <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?       cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+  <p align='left'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
+  </p>
+</div>                              
