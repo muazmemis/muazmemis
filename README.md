@@ -1,13 +1,14 @@
-# Hi there, I'm Muaz <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
-### Software developer from Turkey
-![profile-trophy](https://github-profile-trophy.vercel.app/?username=muazmemis&theme=onedark "Muaz Memis")
+# Hi there, I'm Muaz <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>
+
+## Software developer from Turkey
+![profile-trophy](https://github-profile-trophy.vercel.app/?username=muazmemis&row=1&margin-w=5&margin-h=5&theme=onedark "Muaz Memis Profile Trophy")
 
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
-<a href = 'https://linkedin.com/in/muazmemis'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  <a href = 'https://discord.gg/muazmemis#9397'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
-![profile-views](https://komarev.com/ghpvc/?username=muazmemis&label=Profile%20views&color=0e75b6&style=flat "Profile Views")
-
-<br>
-
+<p>
+<a href = 'https://linkedin.com/in/muazmemis'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
+<a href = 'https://discord.gg/muazmemis#9397'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
+</p>
+  
 ## GitHub Stats 📊
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazmemis&hide=python&layout=compact&show_icons=true&theme=tokyonight "Muaz Memis")
 
