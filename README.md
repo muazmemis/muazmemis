@@ -1,9 +1,9 @@
-# Hi there, I'm Muaz <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>
+# Hi there, I'm Muaz 
 
 ## Software developer from Turkey
 ![profile-trophy](https://github-profile-trophy.vercel.app/?username=muazmemis&row=1&margin-w=5&margin-h=5&theme=onedark "Muaz Memis Profile Trophy")
 
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
+## Connect with me
 <p>
 <a href = 'https://linkedin.com/in/muazmemis'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
 <a href = 'https://discord.gg/muazmemis#9397'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
@@ -12,7 +12,7 @@
 ## GitHub Stats 📊
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazmemis&hide=python&layout=compact&show_icons=true&theme=tokyonight "Muaz Memis")
 
-## Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
+## Languages and Tools
 <p>  
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'>
